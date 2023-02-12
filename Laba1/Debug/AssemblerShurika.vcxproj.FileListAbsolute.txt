@@ -1,0 +1,3 @@
+C:\Users\student\Desktop\laba 1\AssemblerShurika\Debug\AssemblerShurika.exe
+C:\Users\student\Desktop\laba 1\AssemblerShurika\Debug\AssemblerShurika.pdb
+D:\Микропроцессоры\2 часть\AssemblerShurika\Debug\AssemblerShurika.exe
