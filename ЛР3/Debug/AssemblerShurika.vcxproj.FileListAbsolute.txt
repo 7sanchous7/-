@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\laba 1\AssemblerShurika\Debug\AssemblerShurika.exe
+C:\Users\student\Desktop\laba 1\AssemblerShurika\Debug\AssemblerShurika.pdb
+D:\Микропроцессоры\2 часть\AssemblerShurika\Debug\AssemblerShurika.exe
+C:\Users\biche\OneDrive\Рабочий стол\Laba2\Debug\AssemblerShurika.exe
+D:\Микропроцессоры\2 часть\ЛР 2\Laba2\Debug\AssemblerShurika.exe
+D:\Микропроцессоры\2 часть\ЛР 2\Laba2\Debug\AssemblerShurika.pdb
+C:\Users\biche\OneDrive\Рабочий стол\ЛР 3\ЛР3\Debug\AssemblerShurika.exe
+D:\Микропроцессоры\2 часть\ЛР 3\ЛР 3\ЛР3\Debug\AssemblerShurika.exe
